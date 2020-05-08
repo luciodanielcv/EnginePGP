@@ -1,19 +1,13 @@
-package org.jdamico.bc.openpgp.tests;
+package com.dxc.apps.pgp.tools;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.security.InvalidKeyException;
-import java.security.KeyPair;
-import java.security.KeyPairGenerator;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;
-import java.security.Security;
 import java.security.SignatureException;
 
-import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.bouncycastle.openpgp.PGPException;
-import org.jdamico.bc.openpgp.utils.PgpHelper;
-import org.jdamico.bc.openpgp.utils.RSAKeyPairGenerator;
 import org.junit.Test;
 
 

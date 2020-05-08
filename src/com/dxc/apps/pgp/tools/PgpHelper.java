@@ -1,4 +1,4 @@
-package org.jdamico.bc.openpgp.utils;
+package com.dxc.apps.pgp.tools;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;

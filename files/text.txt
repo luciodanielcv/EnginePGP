@@ -1,5 +1,0 @@
-This is a simple text file.
-Text to be encrypted.
-LDCV.
-DXC Technologies.
-

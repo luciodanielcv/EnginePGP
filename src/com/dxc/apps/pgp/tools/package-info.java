@@ -3,4 +3,4 @@
  * @author jdamico <damico@dcon.com.br>
  *
  */
-package org.jdamico.bc.openpgp.tests;
+package com.dxc.apps.pgp.tools;

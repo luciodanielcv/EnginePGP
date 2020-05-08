@@ -1,4 +1,4 @@
-package org.jdamico.bc.openpgp.tests;
+package com.dxc.apps.pgp.tools;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
